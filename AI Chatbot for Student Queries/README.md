@@ -1,6 +1,6 @@
 ---
 
-# 2) AI Chatbot for Student Queries
+# AI Chatbot for Student Queries
 
 ```md
 # AI Chatbot for Student Queries
